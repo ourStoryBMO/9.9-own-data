@@ -12,4 +12,7 @@
 ### b2media
 - Download [fontFamily]
 - Save each file as FONT_[fontName]
-- 
+
+### b9journal
+- Copy the [b9journal] file
+- Start filling in your information

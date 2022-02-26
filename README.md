@@ -14,5 +14,6 @@
 - Save each file as FONT_[fontName]
 
 ### b9journal
+- Copy the repository (or folder structure on google drive)
 - Copy the [b9journal] file
 - Start filling in your information
